@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-09:34:06	330/330	---M--	301	error ('Moved%20Permanently')	text/html	date:Fri,%2014%20Nov%202025%2009:34:05%20GMT	http://localhost/swole	C:/My%20Web%20Sites/swolw/localhost/swole.0.delayed	(from )
-09:34:06	295/295	---M--	404	error ('Not%20Found')	text/html	date:Fri,%2014%20Nov%202025%2009:34:06%20GMT	http://localhost/robots.txt		(from )
-09:35:11	85684/85684	---MC-	200	added ('OK')	text/html	date:Fri,%2014%20Nov%202025%2009:34:06%20GMT	http://localhost/swole/	C:/My%20Web%20Sites/swolw/localhost/swole/index.html	(from )
